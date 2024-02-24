@@ -11,4 +11,5 @@ Data visualizations are created to effectively communicate the findings of the a
 ## Repository Structure
 
 - `SQL_queries.sql`: Contains the SQL queries used for data extraction, transformation, and analysis.
-- 
+- `CovidDeaths.xlsx`: Excel file containing COVID-19 death data.
+- `CovidVaccinations.xlsx`: Excel file containing COVID-19 vaccination data.
