@@ -11,5 +11,4 @@ Data visualizations are created to effectively communicate the findings of the a
 ## Repository Structure
 
 - `SQL_queries.sql`: Contains the SQL queries used for data extraction, transformation, and analysis.
-- `Data_visualizations/`: Directory containing visualizations generated from the analysis.
-- `Documentation/`: Folder for additional documentation such as project requirements, data sources, and methodology explanations.
+- 
